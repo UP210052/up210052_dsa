@@ -10,7 +10,7 @@ Nota: Cambie a 3 dígitos para que no se moviera todo al imprimir
 Notas:
 pow == elevar
 abs == valor absoluto
-round ==    
+round == redondear
 '''
 
 #Libraries
