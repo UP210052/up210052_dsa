@@ -46,8 +46,32 @@ print("---------------------------------------")
 
 # up210052_dsa
 # U1 - O1Biseccion.py
-n=int(input("Numero: "))
-print(n>=100)
+#n=int(input("Numero: "))
+#print(n>=100)
 
-s=(2,1,6) #tupla
+s=(2,1,6) #tupla es definida 
 d=[7,8,9] #list
+
+print("---------------------------------------")
+
+year = int(input("Enter a year: "))
+
+if year < 1582:
+    print("Not within the Gregorian calnear period")
+elif year % 4 != 0:
+    print("It is a common year")
+elif year % 100 != 0:
+    print("It is leap year")
+elif year % 400 !=0:
+    print("It is a common year")
+else:
+    print("It is a leap year")
+
+x,y,z=5,10,8
+x,y,z= z,y,x #lo hace paralelo
+couter=-3
+while couter:
+    print("El valor de counter", couter)
+    couter+=1
+    #si el numero es 0==false, si es !=0 es true
+
