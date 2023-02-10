@@ -1,6 +1,6 @@
 ## Ejerció 1 Bisección
 El ejercicio consta de pasar el programa anteriormente realizado en c++ a python.  
-<img src="images/Img1.png" align="center"/>
+<img src="../images/Img1.png" align="center"/>
 
 ## Ejerció 2 Numero secreto
 El ejercicio consta de adivinar el número secreto.  
